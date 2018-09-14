@@ -1,0 +1,21 @@
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px; 
+}
+
+h1 {
+  color: teal;
+   }
+h3 {color: teal;} 
+.DV{
+    font-weight:normal;
+    color:black;
+    font-style: italic;
+}
+.red{
+  color:teal;
+}
+.black{
+  color:black;
+}
